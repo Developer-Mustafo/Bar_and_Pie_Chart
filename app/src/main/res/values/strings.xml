@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bar and Pie Chart</string>
+    <string name="bar_chart">Bar Chart</string>
+    <string name="pie_chart">Pie Chart</string>
+</resources>
